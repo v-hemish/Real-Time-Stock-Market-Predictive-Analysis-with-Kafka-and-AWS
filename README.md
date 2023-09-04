@@ -1,4 +1,4 @@
-The project entailed building a robust data pipeline using Python, Apache Kafka, and various AWS services such as S3, Athena, Glue, and EC2 for the real-time processing, transformation, and storage of stock market data.
+****The project entailed building a robust data pipeline using Python, Apache Kafka, and various AWS services such as S3, Athena, Glue, and EC2 for the real-time processing, transformation, and storage of stock market data.****
 
 **Data Processing**: Real-time stock market data is volatile and dynamic, requiring a system that can process and transform the data as it is generated. Apache Kafka, a distributed streaming platform, was used to handle the real-time data. Python, a versatile programming language, was used to process and transform the data.
 
